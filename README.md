@@ -11,6 +11,7 @@ Interests: Travel, Cooking, Sports, Gaming, Coffee
 Career Goals: To enhance my programming skills and aim to create the world's greatest video game
 
 Recent Enhancements
+
 Visual Design: Implemented a fresh color scheme using gradients for a more engaging and professional look.
 Typography: Improved readability and aesthetic appeal through enhanced typography techniques.
 Interactive Elements: Added CSS animations and transitions for interactive feedback on links, buttons, and form elements.
@@ -18,10 +19,11 @@ Responsive Design: Ensured the portfolio is responsive across various devices us
 Skill Visualization: Updated the skills section with animated skill bars for a dynamic presentation of expertise levels.
 
 Projects
+
 Personal Budget App
 Description: A Python application designed for personal budget management, focusing on encapsulation principles with private attributes, getters, and setters.
 Technologies Used: Python
-Link: Personal Budget App
+Link: [Personal Budget App](https://github.com/nicholaslord5/my-coding-temple20/blob/main/Personal%20Budget.py)
 
 Coming Soon:
 More projects are in development. Stay tuned for updates!
